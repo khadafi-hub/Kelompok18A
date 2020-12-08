@@ -11,7 +11,7 @@ NAMA ANGGOTA :
 TUTORIAL
 
 1. Buka Netbeans
-2. Cari Tab File -> Open Project -> cari tempat anda menyimpan project KasirBaju -> Open Project
+2. Cari Tab File -> Open Project -> cari tempat anda menyimpan project -> Open Project
 3. Setelah project terbuka di NetBeans lalu import beberapa library yang dibutuhkan yang sudah disediakan di sini 
    Caranya : Click kanan pada project -> click kanan pada file Libraries -> add JAR/Folder -> cari file jar dengan nama berikut : AbsoluteLayout.jar, itextpdf-5.5.13.2.jar, mysql-connector-java-8.0.13.jar lalu click open
    akhirnya semua libraries yang dibutuhkan sudah diimport ke project sekarang saatnya import file kasirbaju.sql ke localhost
